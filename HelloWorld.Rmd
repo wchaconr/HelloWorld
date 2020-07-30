@@ -1,8 +1,10 @@
 ---
 title: "Hello World"
-author: "Wilder Chacón"
+author: "Wilder ChacÃ³n"
 date: "30 de julio de 2020"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
